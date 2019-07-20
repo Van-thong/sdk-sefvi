@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnLoginWithSefvi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0065FF"
+        android:textColor="#fff"
+        android:text="LOGIN WITH SEFVI"
+        android:layout_margin="20dp"/>
+
+</RelativeLayout>
